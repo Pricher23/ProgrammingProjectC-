@@ -16,10 +16,6 @@ void clearScreen() {
 }
 
 void showLogo(const std::string& userType) {
-    std::cout << "  ___   ___  ___ \n";
-    std::cout << " |   \\ | __|| _ \\\n";
-    std::cout << " | |) || _| |   /\n";
-    std::cout << " |___/ |___||_|_\\\n";
     std::cout << " APS - " << userType << "\n\n";
 }
 
