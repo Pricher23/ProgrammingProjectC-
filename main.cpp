@@ -110,7 +110,7 @@ public:
         }
 
         addItemToCart(itemName, quantity, itemValue);
-        updateStock(itemName, -quantity); // Decrease the item quantity in stock
+        updateStock(itemName, -quantity); // decrease the item quantity in stock
     }
 
     void addItemToCart(const std::string& item, int quantity, double itemValue) {
@@ -196,7 +196,7 @@ public:
         remove("Cart.txt");
         rename("temp_cart.txt", "Cart.txt");
 
-        updateStock(item, quantity); // Increase the item quantity in stock
+        updateStock(item, quantity); // increase the item quantity in stocks
     }
 
     void viewCart() {
@@ -1052,7 +1052,7 @@ void showSellerMenu(Seller& seller) {
                 break;
             }
             case 3:
-                seller.removeItem(); // Call removeItem without arguments
+                seller.removeItem(); 
                 break;
             case 4:
                 seller.searchAndChangeItem();
@@ -1223,6 +1223,3 @@ int main() {
     showMainMenu();
     return 0;
 }
-
-
-for this code create a readme file such that it will help people use this program
