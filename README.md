@@ -1,4 +1,4 @@
-# ProgrammingProjectC-
+# ProgrammingProjectC++
 APS (Advanced Purchase System)
 Overview
 APS is a console-based application designed for managing a simple store system. The system allows different types of users—customers, sellers, and admins—to interact with the store inventory and perform various operations such as buying items, adding items, and viewing statistics.
