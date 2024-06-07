@@ -1,0 +1,10 @@
+1 Emag Emag emag2312 467.5
+2 Altex Altex altex2312 669.8
+3 Media Media media2312 467.5
+4 Sub Sub subsub2312 573.75
+5 Top Top toptop2312 198.9
+6 Imp Imp impimp2312 212.5
+7 Das Das dasdas2312 212.5
+8 Not Not notnot2312 212.5
+9 Fix Fix fixfix2312 212.5
+10 Nope Nope nopenope23 0
